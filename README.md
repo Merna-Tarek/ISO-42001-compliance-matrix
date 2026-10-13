@@ -1,4 +1,3 @@
-# ISO-42001-compliance-matrix
 # ISO/IEC 42001 Compliance Control Matrix: Customer-Service Chatbot
 
 An assessment of a customer-service chatbot against eight Annex A controls of ISO/IEC 42001 (AI management system standard).
